@@ -9,7 +9,7 @@ h1 {
 #quiz-container {
     margin: 0 auto;
     max-width: 600px;
-    background-image: url('./Feature-img.png'); /* Replace 'your-image-url.jpg' with the URL of your background image */
+    background-image: url('./images/Feature-img.png'); /* Replace 'your-image-url.jpg' with the URL of your background image */
     background-size: cover; /* Cover the entire container with the background image */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Prevent the background image from repeating */
